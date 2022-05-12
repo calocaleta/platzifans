@@ -8,6 +8,6 @@ Hola! Eres fan de Platzi y has llevado cursos? Quieres practicar lo que aprendis
 
 
 ## Retos Extra
-A. Puedes mejorar estos retos
-B. Puedes crear nuevas secciones
-C. Puedes proponer ideas para mejorar esta iniciativa
+1. Puedes mejorar estos retos
+2. Puedes crear nuevas secciones
+3. Puedes proponer ideas para mejorar esta iniciativa
