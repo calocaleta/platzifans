@@ -1,0 +1,13 @@
+.header {
+    background: blue;
+    color: white;
+    text-align: center;
+}
+
+
+.main {
+    display: flex ;
+    width: 50%;
+    height: 100vp;
+    background: red;
+}
