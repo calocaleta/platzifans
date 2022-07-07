@@ -6,4 +6,4 @@ Estos son lo Platzifans que están colaborando con esta iniciativa
 |---|---|---|
 | Carlos Alfonso Garcia Gonzales | [calocaleta](https://github.com/calocaleta) | Calo Caleta |
 
-| Rafael Barreto Camacho | https://github.com/rafo18 | rafo18
+| Rafael Barreto Camacho | (rafo18)https://github.com/rafo18 | rafo18
