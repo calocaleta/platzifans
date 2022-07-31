@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.nav-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    background: #121f3d;
+    border-bottom: 1px solid #0f1931 ;
+    padding: 12px;
+}
+.nav-logo {
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+}
+
+.nav-bar .nav-logo .logo img {
+    width: 25px;
+    margin-right: 5px;
+
+}
+
+.nav-bar .nav-logo .platzi img{
+    width: 60px;
+}
+
+.nav-bar .nav-input {
+    justify-self: end;
+    justify-content: end;
+    width: 400px;
+    height: 35px;
+    border: 1px solid #40587c;
+    border-radius: 10px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-right: 5px;
+    background-color: #03091e;
+}
+
+.nav-bar .nav-bar .nav-input-container {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.nav-bar .nav-input-container input {
+    width: 350px;
+    border: none;
+    background-color: #03091e;
+    font-size: 1.5rem;
+    outline: none;
+    color: white;
+    
+}
+
+.nav-right {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.nav-right li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.nav-right li a:hover {
+    color: #b7bbc4;
+}
+
+.nav-right .campana {
+    background-image: url('../assets/img/notificacion.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
