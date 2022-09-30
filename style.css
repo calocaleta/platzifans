@@ -1,13 +1,26 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
 .header {
-    background: blue;
+    background: blue;  
+    border: solid 1px black;
+    width: 70%;
     color: white;
-    text-align: center;
+    text-align: center;background-color: #33a;
+    font-weight: bold;
+    box-shadow: 0px 11px 30px 0px rgba(0,0,0,0.75);
+    padding: 0.5em;
+    margin: 0 auto;
 }
 
 
 .main {
-    display: flex ;
-    width: 50%;
-    height: 100vp;
-    background: red;
+    text-align: center;
+    border: solid 1px black;
+    width: 70%;
+    height: 500px;
+    background: rgb(184, 184, 184);
+    margin: 0 auto;
+    margin-top: 20px;
 }
